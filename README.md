@@ -3,7 +3,7 @@
 
 
 ## Website Link:
-><a href="https://carterdallen.github.io/Projects.github.io/""> Projects Homepage </a>
+><a href="https://carterdallen.github.io/Projects.github.io/"> Projects Homepage </a>
 
 ## About Project:
 >This webpage was made to host projects.
